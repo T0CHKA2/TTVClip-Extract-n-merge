@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "open": "^8.4.0"
+  },
+  "name": "ttvclip-extract-n-merge",
+  "description": "Позволяет скачать и склеить все нужные клипы в один видеоролик",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T0CHKA2/TTVClip-Extract-n-merge.git"
+  },
+  "author": "t0chka2020",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/T0CHKA2/TTVClip-Extract-n-merge/issues"
+  },
+  "homepage": "https://github.com/T0CHKA2/TTVClip-Extract-n-merge#readme"
+}
